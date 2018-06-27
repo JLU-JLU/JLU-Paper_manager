@@ -1,4 +1,7 @@
 # JLU-Paper_manager
+
+
+
 #已有的功能：
 	1.选择、创造、删除、show、一个repository
 	2.refersh
@@ -8,6 +11,11 @@
 	6.根据论文id选择论文、对论文信息进行编辑
 	7.根据论文的id打印论文path，根据论文id，打开论文。
 	8.help、quit
+
+
+
+
+	
 #准备补充的内容：
 	1.可视化（根据database的内容，使用echarts进行可视化操作）
 	2.对论文图表进行提取，直观的实验数据体现
